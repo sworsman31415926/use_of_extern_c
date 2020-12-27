@@ -1,0 +1,1 @@
+gcc -lstdc++ module_a.c module_b.cpp
